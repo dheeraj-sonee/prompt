@@ -1,0 +1,11 @@
+{
+  "name": "CompanionCare AI",
+  "description": "Accessible, high-contrast AI companion and daily care assistant for seniors with voice interaction, medication reminders, document OCR reader, family care circle, and emergency SOS.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
